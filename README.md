@@ -1,2 +1,2 @@
 # Bank-Management-System
-I Done a project base BANK sector
+I Done a project based on BANK sector
